@@ -1,0 +1,13 @@
+﻿@Portfolio_HostAddress = https://localhost:7049
+
+GET {{Portfolio_HostAddress}}/projects
+
+###
+
+GET {{Portfolio_HostAddress}}/projects
+
+###
+
+GET {{Portfolio_HostAddress}}/2/project
+
+###
